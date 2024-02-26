@@ -11,7 +11,7 @@
             {
 
 
-                outout = "jenkinspass";
+                outout+= "jenkinspass";
             }
             return outout;
 
