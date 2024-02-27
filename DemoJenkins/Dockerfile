@@ -10,7 +10,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["DemoJenkins/DemoJenkins.csproj", "DemoJenkins/"]
-RUN dotnet restore "./DemoJenkins/./DemoJenkins.csproj"
+RUN dotnet restore "DemoJenkins/./DemoJenkins.csproj"
 COPY . .
 WORKDIR "/src/DemoJenkins"
 RUN dotnet build "DemoJenkins.csproj" -c $BUILD_CONFIGURATION -o /app/build
