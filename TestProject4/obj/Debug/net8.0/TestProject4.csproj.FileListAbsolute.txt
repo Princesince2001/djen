@@ -106,3 +106,4 @@ D:\VS\Devops_Jenkins\DemoJenkins\TestProject4\obj\Debug\net8.0\refint\TestProjec
 D:\VS\Devops_Jenkins\DemoJenkins\TestProject4\obj\Debug\net8.0\TestProject4.pdb
 D:\VS\Devops_Jenkins\DemoJenkins\TestProject4\obj\Debug\net8.0\TestProject4.genruntimeconfig.cache
 D:\VS\Devops_Jenkins\DemoJenkins\TestProject4\obj\Debug\net8.0\ref\TestProject4.dll
+D:\VS\Devops_Jenkins\DemoJenkins\TestProject4\obj\Debug\net8.0\TestProject4.sourcelink.json

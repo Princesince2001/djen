@@ -28,3 +28,4 @@ D:\VS\Devops_Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net8.0\refint\DemoJenkins
 D:\VS\Devops_Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net8.0\DemoJenkins.pdb
 D:\VS\Devops_Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net8.0\DemoJenkins.genruntimeconfig.cache
 D:\VS\Devops_Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net8.0\ref\DemoJenkins.dll
+D:\VS\Devops_Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net8.0\DemoJenkins.sourcelink.json
