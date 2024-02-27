@@ -9,7 +9,7 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["DemoJenkins/DemoJenkins.csproj", "DemoJenkins/"]
+# COPY ["DemoJenkins/DemoJenkins.csproj", "DemoJenkins/"]
 RUN dotnet restore "./DemoJenkins/./DemoJenkins.csproj"
 COPY . .
 WORKDIR "/src/DemoJenkins"
